@@ -40,18 +40,15 @@ sections:
     content:
       title: 'About'
       subtitle: ''
-      text: |-
-        I’m a scientist who thrives at the intersection of analytical chemistry, molecualr biology and bioinformatics.
-        
-        I am a senior research scientist in the _Biochemistry of Plant Specialized Metabolites_ group at IOCB Prague, led by Tomáš Pluskal. My background is in analytical chemistry, with extensive hands-on experience in mass spectrometry techniques.
+      text: |-        
+        I am a senior research scientist in the _[Biochemistry of Plant Specialized Metabolites](https://pluskal.group.uochb.cz/en)_ group at [IOCB Prague](https://www.uochb.cz/en), led by Tomáš Pluskal. I joined the lab in November 2020, and was a self-funded postdoc (IOCB and MSCA.CZ Postdoctoral Fellowships) from 2021 through 2025.
 
-        I joined the Pluskal Lab in November 2020, and was a self-funded postdoc ([IOCB Postdoctoral Fellowship](https://www.uochb.cz/en/iocb-postdoctoral-fellowships) and MSCA-CZ Fellowship based on the MSCA Seal of Excellence) from 2020 through 2024.
-        
-        During my postdoc, I specialize in omics techniques (metabolomics, transcriptomics) and contribute to the development of popular computational tools, such as the mzmine software and the Mass Spectrometry Query Language.
+        My background is in analytical chemistry, with extensive experience in mass spectrometry techniques. I also contribute develop popular computational metabolomics tools, such as the [mzmine](https://mzio.io/mzmine-news/) software and the [MassQL](https://mwang87.github.io/MassQueryLanguage_Documentation/) language.
 
-        My current research focuses on [...]
+        My current research focuses on the biosynthetic elucidation of specialised metabolism in non-model plants using omics techniques (metabolomics, transcriptomics).
 
         If you are interested in my research or a collaboration, reach out to [tito.damiani@uochb.cas.cz](mailto:tito.damiani@uochb.cas.cz)
+        
     design:
       columns: '1'
   # - block: collection
