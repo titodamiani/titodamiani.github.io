@@ -41,9 +41,15 @@ sections:
       title: 'About'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the [Moonshot team at DeepMind](https://deepmind.google/discover/blog/). I blog about [machine learning](https://example.com/ml), [deep learning](https://example.com/dl), and moonshots.
+        I’m a scientist who thrives at the intersection of analytical chemistry, molecualr biology and bioinformatics.
+        
+        I am a senior research scientist in the _Biochemistry of Plant Specialized Metabolites_ group at IOCB Prague, led by Tomáš Pluskal. My background is in analytical chemistry, with extensive hands-on experience in mass spectrometry techniques.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I joined the Pluskal Lab in November 2020, and was a self-funded postdoc ([IOCB Postdoctoral Fellowship](https://www.uochb.cz/en/iocb-postdoctoral-fellowships) and MSCA-CZ Fellowship based on the MSCA Seal of Excellence) from 2020 through 2024.
+        
+        During my postdoc, I specialize in omics techniques (metabolomics, transcriptomics) and contribute to the development of popular computational tools, such as the mzmine software and the Mass Spectrometry Query Language.
+
+        My current research focuses on [...]
 
         If you are interested in my research or a collaboration, reach out to [tito.damiani@uochb.cas.cz](mailto:tito.damiani@uochb.cas.cz)
     design:
