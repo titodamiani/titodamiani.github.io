@@ -47,7 +47,7 @@ sections:
 
         My current research focuses on the biosynthetic elucidation of specialised metabolism in non-model plants using omics techniques (metabolomics, transcriptomics).
 
-        If you are interested in my research or a collaboration, reach out to [tito.damiani@uochb.cas.cz](mailto:tito.damiani@uochb.cas.cz)
+        If you are interested in my research or a collaboration, feel free to reach out!
         
     design:
       columns: '1'
